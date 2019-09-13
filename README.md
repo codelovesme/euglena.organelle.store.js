@@ -1,1 +1,1 @@
-# euglena.organelle.vacuole.memory
+# euglena.organelle.store.ram
