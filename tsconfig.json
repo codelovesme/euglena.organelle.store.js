@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["es2017"],
+    "target": "es5",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "dist"
+  },
+  "exclude": ["**/node_modules"]
+}
